@@ -1,0 +1,32 @@
+Protein1,Protein2,Score,Disease
+Amyloid-protein,Tau protein,0.7,Alzheimer's disease
+Tau protein,Tubulin,0.6,Alzheimer's disease
+Alpha-synuclein protein,Alpha-synuclein protein,0.8,Parkinson's disease
+Alpha-synuclein protein,LRRK2,0.75,Parkinson's disease
+Alpha-synuclein protein,SNCA,0.7,Parkinson's disease
+Huntingtin protein,Huntingtin protein,0.9,Huntington's disease
+Huntingtin protein,Htt,0.85,Huntington's disease
+Huntingtin protein,SAP97,0.8,Huntington's disease
+TAR DNA-binding protein of 43 kDa (TDP-43) protein,TDP-43 protein,0.95,Amyotrophic lateral sclerosis
+TDP-43 protein,FUS,0.9,Amyotrophic lateral sclerosis
+TDP-43 protein,C9orf72,0.85,Amyotrophic lateral sclerosis
+Myelin basic protein (MBP) protein,MBP protein,0.75,Multiple sclerosis
+MBP protein,Proteolipid protein (PLP),0.7,Multiple sclerosis
+MBP protein,Myelin oligodendrocyte glycoprotein (MOG),0.65,Multiple sclerosis
+Tau protein,Microtubules,0.8,Frontotemporal dementia
+Tau protein,TDP-43 protein,0.75,Frontotemporal dementia
+Tau protein,FUS protein,0.7,Frontotemporal dementia
+Alpha-synuclein protein,Alpha-synuclein protein,0.85,Lewy body dementia
+Alpha-synuclein protein,Ubiquitin,0.8,Lewy body dementia
+Alpha-synuclein protein,Parkin,0.75,Lewy body dementia
+Apolipoprotein E (APOE) protein,APOE protein,0.7,Vascular dementia
+APOE protein,LDL receptor,0.65,Vascular dementia
+APOE protein,A? protein,0.6,Vascular dementia
+Prion protein,Prion protein,0.95,Creutzfeldt-Jakob disease
+Prion protein,PrP^c,0.9,Creutzfeldt-Jakob disease
+Prion protein,PrP^Sc,0.85,Creutzfeldt-Jakob disease
+Ataxin-1 protein,Ataxin-1 protein,0.8,Spinocerebellar ataxia
+Ataxin-1 protein,Ataxin-3,0.75,Spinocerebellar ataxia
+Ataxin-1 protein,Calcineurin,0.7,Spinocerebellar ataxia
+Atrophin-1 protein,Atrophin-1 protein,0.9,Dentatorubral-pallidoluysian atrophy
+Atrophin-1 protein,Calmodulin,0.85,Dentatorubral-pallidoluysian atrophy
